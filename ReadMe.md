@@ -2,7 +2,9 @@
 In sandbox about how to summarize documents or text using  a simple yet powerful package called Sumy.
 
 ## HOW TO INSTALLATION
-```pip install sumy
+```bash
+pip install sumy
+
 ```
 Sumy offers several algorithms and methods for summarization such as:
 - Luhn – heurestic method
